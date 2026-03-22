@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "LWKY",
+  "base_artist": "Teys",
+  "createdAt": "2026-03-22T14:17:43.834269Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "LWKY",
+      "artist": "Teys feat. Keith",
+      "has_synced": true,
+      "path": "select/01_LWKY_Teys_feat._Keith.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "LWKY",
+      "artist": "Teys",
+      "has_synced": true,
+      "path": "select/02_LWKY_Teys.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "LWKY (feat. SwKeith, YP & JTheKidd)",
+      "artist": "Teys",
+      "has_synced": true,
+      "path": "select/03_LWKY_(feat._SwKeith,_YP_&_JTheKidd)_Teys.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Naunsa diay ka (feat. Lwky, Soulthrll, Ez Rivera & Bums)",
+      "artist": "YUNGILLEST",
+      "has_synced": false,
+      "path": "select/04_Naunsa_diay_ka_(feat._Lwky,_Soulthrll,_Ez_Rivera_&_Bums)_YUNGILLEST.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "LWKY (feat. SwKeith, YP",
+      "artist": "Teys",
+      "has_synced": true,
+      "path": "select/05_LWKY_(feat._SwKeith,_YP_Teys.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Naunsa diay ka (feat. Lwky, Soulthrll, Ez Rivera, Bums, AnsG & Janhnoven)",
+      "artist": "YUNGILLEST",
+      "has_synced": true,
+      "path": "select/06_Naunsa_diay_ka_(feat._Lwky,_Soulthrll,_Ez_Rivera,_Bums,_AnsG_&_Janhnoven)_YUNGILLEST.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "lwky (sped up)",
+      "artist": "404",
+      "has_synced": true,
+      "path": "select/07_lwky_(sped_up)_404.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "LWKY",
+      "artist": "Teys, Keith",
+      "has_synced": true,
+      "path": "select/08_LWKY_Teys,_Keith.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Naunsa diay ka (feat. Lwky, Soulthrll, Ez Rivera, Bums, AnsG",
+      "artist": "YUNGILLEST",
+      "has_synced": false,
+      "path": "select/09_Naunsa_diay_ka_(feat._Lwky,_Soulthrll,_Ez_Rivera,_Bums,_AnsG_YUNGILLEST.txt"
+    }
+  ]
+}
